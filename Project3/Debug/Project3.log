@@ -1,0 +1,30 @@
+﻿  TextureManager.cpp
+  Spaceship.cpp
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(164): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\spaceship.h(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\boyi3z\desktop\project3\project3\project3\source.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PlayerBullet.cpp
+  Image.cpp
+  Graphics.cpp
+c:\users\boyi3z\desktop\project3\project3\project3\graphics.cpp(125): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+  Explosion.cpp
+  Entity.cpp
+  Generating Code...
+  Project3.vcxproj -> C:\Users\Boyi3z\Desktop\Project3\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\Boyi3z\Desktop\Project3\Project3\Debug\Project3.pdb (Partial PDB)
